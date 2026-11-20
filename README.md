@@ -13,7 +13,6 @@ A multi-user web app that captures live network traffic (or loads a `.pcap` file
 - **IP blocking:** block and unblock IPs through `netsh` (Windows) or `iptables` (Linux), with manual commands shown if the automatic rule fails.
 - **Device discovery:** Nmap scan with OS-specific install instructions if Nmap is missing.
 - **Users and history:** signup/login with hashed passwords, per-user history in SQLite (detections, windows, devices, block rules, alert log), and a History tab to browse it.
-- **Email alerts:** one email per window listing all newly detected threats.
 
 ## Tech stack
 
