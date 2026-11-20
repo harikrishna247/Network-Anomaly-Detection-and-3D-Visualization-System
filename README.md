@@ -26,7 +26,6 @@ Python, Dash, Flask, Flask-Login, SQLite, Scapy, NetworkX, NumPy, SciPy, Plotly
 | `app.py` | Dash app: capture, detection, 3D graph, replay, blocking, UI |
 | `netpulse_db.py` | SQLite schema, migration, and per-user reads/writes |
 | `auth.py` | Signup, login, logout, and route protection |
-| `mailer.py` | Threat alert emails |
 
 ## Setup
 
